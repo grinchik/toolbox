@@ -21,4 +21,5 @@
     "workbench.list.openMode": "doubleClick",
     "workbench.startupEditor": "newUntitledFile",
     "workbench.view.alwaysShowHeaderActions": true,
+    "editor.minimap.enabled": false,
 }
