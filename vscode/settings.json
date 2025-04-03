@@ -22,4 +22,5 @@
     "workbench.startupEditor": "newUntitledFile",
     "workbench.view.alwaysShowHeaderActions": true,
     "editor.minimap.enabled": false,
+    "editor.stickyScroll.enabled": false,
 }
